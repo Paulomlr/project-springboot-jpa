@@ -1,9 +1,7 @@
 package com.paulo.orderingSystem.services;
 
 import com.paulo.orderingSystem.entities.Category;
-import com.paulo.orderingSystem.entities.Order;
 import com.paulo.orderingSystem.repositories.CategoryRepository;
-import com.paulo.orderingSystem.repositories.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
